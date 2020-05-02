@@ -28,6 +28,7 @@ gem 'bootstrap-sass', '~>3.3.6'
 
 gem 'jquery-rails'
 
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
